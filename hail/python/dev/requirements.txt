@@ -1,6 +1,6 @@
 flake8==4.0.1
 mypy>=0.900,<0.1000
-pylint==2.13.4
+pylint==2.13.5
 pre-commit==2.18.1
 black==22.3.0
 curlylint==0.13.1
@@ -11,7 +11,7 @@ pytest-html==1.20.0
 pytest-xdist==2.2.1
 pytest-instafail==0.4.2
 sphinx==3.5.4
-sphinx-autodoc-typehints==1.11.1
+sphinx-autodoc-typehints==1.18.1
 nbsphinx==0.8.8
 sphinx_rtd_theme==0.4.2
 jupyter==1.0.0
